@@ -20,6 +20,12 @@ The total number of months included in the dataset
 * The greatest decrease in profits (date and amount) over the entire period
 
 
+[Election Results](https://github.com/HJandu/Python_challenge/blob/main/PyPoll/Output/election_data.txt)
+
+
+
+
+
 
 
 The second python script was created to analyse the election result of PyPoll. 
